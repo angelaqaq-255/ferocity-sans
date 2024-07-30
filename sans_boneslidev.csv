@@ -1,0 +1,19 @@
+0,SansHead,ClosedEyes,,,,,,
+0,SansText,Cause. . . Y'see. . .,,,,,,
+0,SansHead,Lookleft,,,,,,
+0,SansText,All this fighting is        really tiring me out.,,,,,,
+0,SansHead,blueeye,,,,,,
+,,,,,,,,
+,,,,,,,,
+0,CombatZoneResize,241,226,406,391,TLResume,,
+0,HeartTeleport,320,304,,,,,
+0,HeartMode,0,,,,,,
+0,TLPause,,,,,,,
+,,,,,,,,
+0,BoneHRepeat,130,-10,200,1,300,7,183
+0,BoneHRepeat,330,650,200,3,300,7,183
+0.2,BoneHRepeat,370,650,200,3,300,7,183
+0.2,BoneHRepeat,90,-10,200,1,300,7,183
+,,,,,,,,
+5.76666,EndAttack,,,,,,,
+0,sanshead,blueeye,,,,,,

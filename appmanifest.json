@@ -1,0 +1,19 @@
+{name: "Bad Time Simulator (Sans Fight)", short_name: "Bad Time Simulator (Sans Fight)",…}
+display
+: 
+"fullscreen"
+icons
+: 
+[{src: "icon-16.png", sizes: "16x16", type: "image/png"},…]
+name
+: 
+"Bad Time Simulator (Sans Fight)"
+orientation
+: 
+"any"
+short_name
+: 
+"Bad Time Simulator (Sans Fight)"
+start_url
+: 
+"index.html"

@@ -1,0 +1,24 @@
+0,SansHead,ClosedEyes,,
+0,SansTorso,shrug,,,,,,,
+0,SansText,cause even if we do. . .,,,,,,,,,,,,,,,,
+0,SansHead,NoEyes,,
+0,SansText,we'll just end up right    g   back here without any     g   memory of it right?,,,,,,,,,,,,,,,,
+0,SansHead,blueeye,,
+0,SansTorso,Default,,,,,,,
+0,CombatZoneResize,113,231,548,391,TLResume,,
+0,HeartTeleport,320,376,,,,,
+0,HeartMode,1,,,,,,
+0,TLPause,,,,,,,
+0,Platform,151,336,31,0,90,1,
+0,HeartTeleport,175,327,,,,,
+0,BoneVRepeat,528,366,40,0,60,60,15
+0,BoneVRepeat,283,268,40,3,90,12,65
+0,BoneVRepeat,363,325,40,1,120,11,90
+0,BoneVRepeat,443,268,40,3,90,12,65
+3.3,SansBody,HandUp
+0,SansSlam,3
+0,SansBody,Default
+0,BoneStab,0,300,3.7,10,,,,
+
+7.3,EndAttack,,,,,,,
+0,sanshead,blueeye,,,,,,

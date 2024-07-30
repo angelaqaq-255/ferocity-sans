@@ -1,0 +1,18 @@
+0,SansText,...?you think im just gonna g    stand there and take it?,,,,,,
+0,SansAnimation,Idle,,,,,,
+0.05,CombatZoneResize,310,250,340,391,,,
+0,HeartTeleport,325,390,,,,,
+0.2,BoneVRepeat,534,257,90,2,275,8,180
+0,BoneVRepeat,534,366,25,2,275,8,180
+0,BoneVRepeat,109,257,90,0,275,8,180
+0,BoneVRepeat,109,366,25,0,275,8,180
+0.05,BoneVRepeat,534,257,90,2,275,8,180
+0,BoneVRepeat,534,366,25,2,275,8,180
+0,BoneVRepeat,109,257,90,0,275,8,180
+0,BoneVRepeat,109,366,25,0,275,8,180
+0.05,BoneVRepeat,534,257,90,2,275,8,180
+0,BoneVRepeat,534,366,25,2,275,8,180
+0,BoneVRepeat,109,257,90,0,275,8,180
+0,BoneVRepeat,109,366,25,0,275,8,180
+6,EndAttack,,,,,,,
+0,sanshead,blueeye,,,,,,
